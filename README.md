@@ -44,3 +44,7 @@ arduino-cli compile --upload --fqbn esp32:esp32:esp32s3:CDCOnBoot=cdc -p <port> 
 Serial at 115200: `a`/`d` jog the crank, `z` sets the current position as closed, `o` open,
 `c` close, `b` blink, `p` full routine, `g` toggle the glow LED. There is no home switch: on power-up
 the lids are assumed closed.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Covers the CAD files, STLs and firmware.
